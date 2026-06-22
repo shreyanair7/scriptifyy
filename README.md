@@ -143,7 +143,8 @@ scriptify/
 > Screenshot Placeholder
 
 ```text
-[ INSERT HISTORY PAGE SCREENSHOT HERE ]
+<img width="1910" height="897" alt="extract" src="https://github.com/user-attachments/assets/30d07e82-929d-4301-8b36-213d34d74763" />
+
 ```
 
 ---
