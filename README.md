@@ -100,38 +100,25 @@ scriptify/
 
 ### Dashboard
 
-> Screenshot Placeholder
-
-![Dashboard](assets/dashboard.png)
-```
+![Dashboard](./scriptify-ocr/assets/dashboard.png)
 
 ---
 
 ### New Extraction
 
-> Screenshot Placeholder
-
-```text
-![Extract](assets/extract.png)
+![Extract](./scriptify-ocr/assets/extract.png)
 
 ---
 
 ### OCR Results
 
-> Screenshot Placeholder
-
-![Results](assets/result.png)
-```
+![Results](./scriptify-ocr/assets/result.png)
 
 ---
 
 ### Extraction History
 
-> Screenshot Placeholder
-
-![History](assets/history.png)
-```
-
+![History](./scriptify-ocr/assets/history.png)
 
 ---
 
