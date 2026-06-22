@@ -98,22 +98,12 @@ scriptify/
 
 ## 📸 Application Preview
 
-### Login Page
-
-> Screenshot Placeholder
-
-```text
-[ INSERT LOGIN PAGE SCREENSHOT HERE ]
-```
-
----
-
 ### Dashboard
 
 > Screenshot Placeholder
 
 ```text
-[ INSERT DASHBOARD SCREENSHOT HERE ]
+![Dashboard](assets/dashboard.png)
 ```
 
 ---
@@ -123,7 +113,7 @@ scriptify/
 > Screenshot Placeholder
 
 ```text
-[ INSERT OCR UPLOAD SCREENSHOT HERE ]
+![Extract](assets/extract.png)
 ```
 
 ---
@@ -133,7 +123,7 @@ scriptify/
 > Screenshot Placeholder
 
 ```text
-[ INSERT OCR RESULT SCREENSHOT HERE ]
+![Results](assets/result.png)
 ```
 
 ---
@@ -143,19 +133,9 @@ scriptify/
 > Screenshot Placeholder
 
 ```text
-<img width="1910" height="897" alt="extract" src="https://github.com/user-attachments/assets/30d07e82-929d-4301-8b36-213d34d74763" />
-
+![History](assets/history.png)
 ```
 
----
-
-### User Profile
-
-> Screenshot Placeholder
-
-```text
-[ INSERT PROFILE PAGE SCREENSHOT HERE ]
-```
 
 ---
 
