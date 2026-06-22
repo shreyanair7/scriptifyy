@@ -102,7 +102,6 @@ scriptify/
 
 > Screenshot Placeholder
 
-```text
 ![Dashboard](assets/dashboard.png)
 ```
 
@@ -114,7 +113,6 @@ scriptify/
 
 ```text
 ![Extract](assets/extract.png)
-```
 
 ---
 
@@ -122,7 +120,6 @@ scriptify/
 
 > Screenshot Placeholder
 
-```text
 ![Results](assets/result.png)
 ```
 
@@ -132,7 +129,6 @@ scriptify/
 
 > Screenshot Placeholder
 
-```text
 ![History](assets/history.png)
 ```
 
